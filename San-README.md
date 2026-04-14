@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANTHOSH%20.%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Sc.%20COMPUTER%20SCIENCE%20%7C%20PYTHON%20-%20DEVELOPER&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn&fontFamily=Montserrat" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANTHOSH%20.%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Sc.%20COMPUTER%20SCIENCE%20%7C%20PYTHON%20-%20DEVELOPER&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn&fontFamily=Montserrat" />
 
 </div>
 
@@ -111,6 +111,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
