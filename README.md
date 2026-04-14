@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANTHOSH . S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Sc.%20COMPUTER%20SCIENCE%20%7C%20PYTHON -%20DEVELOPER&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn&fontFamily=Montserrat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANTHOSH%20.%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Sc.%20COMPUTER%20SCIENCE%20%7C%20PYTHON%20-%20DEVELOPER&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn&fontFamily=Montserrat" />
 
 </div>
 
@@ -32,10 +32,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=A78BFA&vCenter=true&width=500&lines=Turning+Data+into+Decisions+📊;Building+Solutions+That+Matter+🚀;Exploring+AI+%26+Machine+Learning+🤖;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
 
 <br clear="right"/>
-
----
-
-## 🐍 GitHub Snake Animation
 
 <div align="center">
 <picture>
@@ -78,20 +74,17 @@
 
 # 📊 GitHub Analytics
 
-
-
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhosh-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandept&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandept&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Santhosh-S&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sandept&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-S&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandept&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -121,11 +114,11 @@
 <hr>
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-S&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sandept&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
