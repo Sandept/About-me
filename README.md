@@ -33,11 +33,15 @@
 
 <br clear="right"/>
 
+---
+
+## 🐍 GitHub Snake Animation
+
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santhosh-S/Santhosh-S/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santhosh-S/Santhosh-S/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Santhosh-S/Santhosh-S/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandept/About-me/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandept/About-me/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sandept/About-me/output/github-snake-dark.svg" />
 </picture>
 </div>
 
@@ -120,8 +124,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-S&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-<div align="center">
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-<div/>
+</div>
